@@ -35,4 +35,4 @@ Full details are in the [LICENSE](https://github.com/citizenfx/fivem/blob/master
 [Forum]: https://forum.cfx.re/
 [Marketplace]: https://marketplace.cfx.re/
 [Documentation]: https://docs.fivem.net/
-[Discord]: https://discord.gg/fivem
+[Discord]: https://discord.gg/fivem 
